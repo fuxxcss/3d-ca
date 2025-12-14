@@ -1,5 +1,3 @@
-# 3D-CA
-
 ![](https://github.com/fuxxcss/3d-ca/blob/main/docs/3d-ca.png)
 --
 
